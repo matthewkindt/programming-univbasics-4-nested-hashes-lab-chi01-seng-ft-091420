@@ -104,8 +104,13 @@ def changing_alan
         :languages => ["C"]
       }
     }
+<<<<<<< HEAD
 programmer_hash[:alan_kay][:known_for] = "GUI"
 programmer_hash
+=======
+programmer_hash = 
+changing_alan[:alan_kay][:known_for] = "GUI"
+>>>>>>> ba97ce4d7d8481bae9cf0efd59b38d7410e459fd
 end
 
 def adding_to_dennis
